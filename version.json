@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
+  "versionCode": 3,
+  "versionName": "1.1.1",
   "apkUrl": "https://raw.githubusercontent.com/mixOsApps/client-database-releases/main/app-release.apk",
-  "releaseNotes": "Initial release",
+  "releaseNotes": "Updated User Role Management",
   "forceUpdate": true
 }
