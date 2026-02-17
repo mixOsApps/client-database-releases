@@ -1,7 +1,7 @@
 {
-  "versionCode": 46,
-  "versionName": "4.8.2",
+  "versionCode": 47,
+  "versionName": "4.9.0",
   "apkUrl": "https://raw.githubusercontent.com/mixOsApps/client-database-releases/main/app-release.apk",
-  "releaseNotes": "Updated User Role Management",
+  "releaseNotes": "Updated User Role",
   "forceUpdate": true
 }
