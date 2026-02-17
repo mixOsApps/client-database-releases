@@ -1,7 +1,7 @@
 {
-  "versionCode": 47,
-  "versionName": "4.9.0",
-  "apkUrl": "https://raw.githubusercontent.com/mixOsApps/client-database-releases/main/app-release.apk",
-  "releaseNotes": "Updated User Role",
+  "versionCode": 49,
+  "versionName": "4.9.2",
+  "apkUrl": "https://raw.githubusercontent.com/mixOsApps/client-database-releases/main/client-database_v4.9.2",
+  "releaseNotes": "Fixed Order Fragment Pagination and FAB Button in alignment",
   "forceUpdate": true
 }
