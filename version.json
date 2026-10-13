@@ -1,7 +1,7 @@
 {
-  "versionCode": 67,
-  "versionName": "4.19.0",
-  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.19.0/client-database-4.19.0.apk",
-  "releaseNotes": "Every screen and dialog now follows the Work Settings look.",
+  "versionCode": 68,
+  "versionName": "4.19.1",
+  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.19.1/client-database-4.19.1.apk",
+  "releaseNotes": "Clients and Non-Clients screens now follow the Work Settings look.",
   "forceUpdate": false
 }
