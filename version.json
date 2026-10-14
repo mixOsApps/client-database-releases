@@ -1,7 +1,7 @@
 {
-  "versionCode": 68,
-  "versionName": "4.19.1",
-  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.19.1/client-database-4.19.1.apk",
-  "releaseNotes": "Clients and Non-Clients screens now follow the Work Settings look.",
+  "versionCode": 69,
+  "versionName": "4.19.2",
+  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.19.2/client-database-4.19.2.apk",
+  "releaseNotes": "Retention, Timeline and Order screens follow the Work Settings look.",
   "forceUpdate": false
 }
