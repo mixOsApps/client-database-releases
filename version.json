@@ -1,7 +1,7 @@
 {
-  "versionCode": 69,
-  "versionName": "4.19.2",
-  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.19.2/client-database-4.19.2.apk",
-  "releaseNotes": "Retention, Timeline and Order screens follow the Work Settings look.",
+  "versionCode": 77,
+  "versionName": "4.23.1",
+  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.23.1/client-database-4.23.1.apk",
+  "releaseNotes": "Non-client found dialog gets a Status drop-down; status changes in the router always save.",
   "forceUpdate": false
 }
