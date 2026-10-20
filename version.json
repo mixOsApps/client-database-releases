@@ -1,7 +1,7 @@
 {
-  "versionCode": 78,
-  "versionName": "4.23.2",
-  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.23.2/client-database-4.23.2.apk",
-  "releaseNotes": "The watch's session countdown now clears itself after the session ends, even when the watch couldn't reach the phone.",
+  "versionCode": 79,
+  "versionName": "4.24.0",
+  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.24.0/client-database-4.24.0.apk",
+  "releaseNotes": "The \"Sent to <name>?\" dialog on the Advertisement screen now has a Status drop-down, so you can mark a contact Blocked, Been Blocked or Not in Whatsapp right after a send.",
   "forceUpdate": false
 }
