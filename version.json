@@ -1,7 +1,7 @@
 {
-  "versionCode": 79,
-  "versionName": "4.24.0",
-  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.24.0/client-database-4.24.0.apk",
-  "releaseNotes": "The \"Sent to <name>?\" dialog on the Advertisement screen now has a Status drop-down, so you can mark a contact Blocked, Been Blocked or Not in Whatsapp right after a send.",
+  "versionCode": 80,
+  "versionName": "4.24.1",
+  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.24.1/client-database-4.24.1.apk",
+  "releaseNotes": "In-app updates no longer switch off the clipboard router's accessibility service or notification access.",
   "forceUpdate": false
 }
