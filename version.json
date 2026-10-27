@@ -1,7 +1,7 @@
 {
-  "versionCode": 87,
-  "versionName": "4.24.8",
-  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.24.8/client-database-4.24.8.apk",
-  "releaseNotes": "Dropdowns in the Add Client dialog and the Reports screen now have the same thin white border as the other fields.",
+  "versionCode": 88,
+  "versionName": "4.24.9",
+  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.24.9/client-database-4.24.9.apk",
+  "releaseNotes": "One matching look everywhere: cards, buttons, fields, dropdowns, chips, switches, dialogs and menus follow a single style file. Rounded dialogs, red delete buttons, green switches and bordered fields in the Order Options and Advertisement screens.",
   "forceUpdate": false
 }
