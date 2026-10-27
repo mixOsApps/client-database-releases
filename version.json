@@ -1,7 +1,7 @@
 {
-  "versionCode": 88,
-  "versionName": "4.24.9",
-  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.24.9/client-database-4.24.9.apk",
-  "releaseNotes": "One matching look everywhere: cards, buttons, fields, dropdowns, chips, switches, dialogs and menus follow a single style file. Rounded dialogs, red delete buttons, green switches and bordered fields in the Order Options and Advertisement screens.",
+  "versionCode": 89,
+  "versionName": "4.24.10",
+  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.24.10/client-database-4.24.10.apk",
+  "releaseNotes": "Every screen now follows the same widget styles: cards, edit boxes, dropdowns, chips and buttons, including the ones the app builds in code. Dialogs share the slate look, and a few layout glitches (clipped Restore button, covered last row, cramped fields) are fixed.",
   "forceUpdate": false
 }
