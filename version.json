@@ -1,7 +1,7 @@
 {
-  "versionCode": 82,
-  "versionName": "4.24.3",
-  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.24.3/client-database-4.24.3.apk",
-  "releaseNotes": "The update dialogs now use the cleaner Material style.",
+  "versionCode": 83,
+  "versionName": "4.24.4",
+  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.24.4/client-database-4.24.4.apk",
+  "releaseNotes": "Searching a number on Home now opens Non-Clients with that number in the search box, showing only its matches.",
   "forceUpdate": false
 }
