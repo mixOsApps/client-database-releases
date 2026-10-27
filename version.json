@@ -1,7 +1,7 @@
 {
-  "versionCode": 80,
-  "versionName": "4.24.1",
-  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.24.1/client-database-4.24.1.apk",
-  "releaseNotes": "In-app updates no longer switch off the clipboard router's accessibility service or notification access.",
+  "versionCode": 81,
+  "versionName": "4.24.2",
+  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.24.2/client-database-4.24.2.apk",
+  "releaseNotes": "Searching a number on Home now scrolls to and highlights it in Non-Clients.",
   "forceUpdate": false
 }
