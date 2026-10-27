@@ -1,7 +1,7 @@
 {
-  "versionCode": 84,
-  "versionName": "4.24.5",
-  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.24.5/client-database-4.24.5.apk",
-  "releaseNotes": "Search boxes now have the same look as the Part-time set cards: dark card background, green border, rounded corners.",
+  "versionCode": 85,
+  "versionName": "4.24.6",
+  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.24.6/client-database-4.24.6.apk",
+  "releaseNotes": "One matching look across the app: slate cards with a thin white border for fields, pills, buttons, menus and the Home cards, a readable three-dot menu and a cleaner side panel.",
   "forceUpdate": false
 }
