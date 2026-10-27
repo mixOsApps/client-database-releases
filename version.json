@@ -1,7 +1,7 @@
 {
-  "versionCode": 86,
-  "versionName": "4.24.7",
-  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.24.7/client-database-4.24.7.apk",
-  "releaseNotes": "Dark mode now gets the same look: the Add Order dialog background and the three-dot menu match the rest of the app.",
+  "versionCode": 87,
+  "versionName": "4.24.8",
+  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.24.8/client-database-4.24.8.apk",
+  "releaseNotes": "Dropdowns in the Add Client dialog and the Reports screen now have the same thin white border as the other fields.",
   "forceUpdate": false
 }
