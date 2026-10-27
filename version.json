@@ -1,7 +1,7 @@
 {
-  "versionCode": 90,
-  "versionName": "4.24.11",
-  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.24.11/client-database-4.24.11.apk",
-  "releaseNotes": "Sending an advertisement: if you set the client to Blocked, Been Blocked, Not in Whatsapp or Inactive in the Sent dialog and tap Not sent, that row is grayed out and the next client is highlighted.",
+  "versionCode": 91,
+  "versionName": "4.24.12",
+  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.24.12/client-database-4.24.12.apk",
+  "releaseNotes": "The app now offers a new version whenever you open it or return to it, so you no longer need to go to Work Settings to update.",
   "forceUpdate": false
 }
