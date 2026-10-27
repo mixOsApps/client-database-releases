@@ -1,7 +1,7 @@
 {
-  "versionCode": 85,
-  "versionName": "4.24.6",
-  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.24.6/client-database-4.24.6.apk",
-  "releaseNotes": "One matching look across the app: slate cards with a thin white border for fields, pills, buttons, menus and the Home cards, a readable three-dot menu and a cleaner side panel.",
+  "versionCode": 86,
+  "versionName": "4.24.7",
+  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.24.7/client-database-4.24.7.apk",
+  "releaseNotes": "Dark mode now gets the same look: the Add Order dialog background and the three-dot menu match the rest of the app.",
   "forceUpdate": false
 }
