@@ -1,7 +1,7 @@
 {
-  "versionCode": 93,
-  "versionName": "4.25.1",
-  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.25.1/client-database-4.25.1.apk",
-  "releaseNotes": "The Non-Client stop in Next clients always shows the field for the driver's Google Maps link, with or without a running session.",
+  "versionCode": 94,
+  "versionName": "4.26.0",
+  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.26.0/client-database-4.26.0.apk",
+  "releaseNotes": "Next clients: tap the Non-Client chip under the picker, add the client's number, and send the ETA to it.",
   "forceUpdate": false
 }
