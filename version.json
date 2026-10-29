@@ -1,7 +1,7 @@
 {
-  "versionCode": 94,
-  "versionName": "4.26.0",
-  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.26.0/client-database-4.26.0.apk",
-  "releaseNotes": "Next clients: tap the Non-Client chip under the picker, add the client's number, and send the ETA to it.",
+  "versionCode": 95,
+  "versionName": "4.26.1",
+  "apkUrl": "https://github.com/mixOsApps/client-database-releases/releases/download/v4.26.1/client-database-4.26.1.apk",
+  "releaseNotes": "Message sent dialog: choosing Blocked, Been Blocked or Not in Whatsapp disables Sent so only Not sent is available, and Not sent moves on to the next client.",
   "forceUpdate": false
 }
