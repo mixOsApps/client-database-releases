@@ -1,7 +1,7 @@
 {
-    "versionCode":  96,
-    "versionName":  "4.27.0",
-    "apkUrl":  "https://github.com/mixOsApps/client-database-releases/releases/download/v4.27.0/client-database-4.27.0.apk",
-    "releaseNotes":  "Updates now download in the background with a progress notification and a progress card in Settings.",
+    "versionCode":  98,
+    "versionName":  "4.29.0",
+    "apkUrl":  "https://github.com/mixOsApps/client-database-releases/releases/download/v4.29.0/client-database-4.29.0.apk",
+    "releaseNotes":  "New Year to date sheet from the Home calendar card (monthly weekday averages and rank, earnings, month and year growth, this month's average per day). Also the new lotus launcher icon.",
     "forceUpdate":  false
 }
