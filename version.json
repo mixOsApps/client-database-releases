@@ -1,7 +1,7 @@
 {
-    "versionCode":  98,
-    "versionName":  "4.29.0",
-    "apkUrl":  "https://github.com/mixOsApps/client-database-releases/releases/download/v4.29.0/client-database-4.29.0.apk",
-    "releaseNotes":  "New Year to date sheet from the Home calendar card (monthly weekday averages and rank, earnings, month and year growth, this month's average per day). Also the new lotus launcher icon.",
+    "versionCode":  99,
+    "versionName":  "4.29.1",
+    "apkUrl":  "https://github.com/mixOsApps/client-database-releases/releases/download/v4.29.1/client-database-4.29.1.apk",
+    "releaseNotes":  "Year to date: the Days column shows each month's working days, and the current year lists all 12 months.",
     "forceUpdate":  false
 }
