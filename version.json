@@ -1,7 +1,7 @@
 {
-    "versionCode":  99,
-    "versionName":  "4.29.1",
-    "apkUrl":  "https://github.com/mixOsApps/client-database-releases/releases/download/v4.29.1/client-database-4.29.1.apk",
-    "releaseNotes":  "Year to date: the Days column shows each month's working days, and the current year lists all 12 months.",
+    "versionCode":  100,
+    "versionName":  "4.30.0",
+    "apkUrl":  "https://github.com/mixOsApps/client-database-releases/releases/download/v4.30.0/client-database-4.30.0.apk",
+    "releaseNotes":  "Partime orders now send their fares and costs to Masroofi, and Save no longer creates duplicate orders or incomes on a slow network.",
     "forceUpdate":  false
 }
