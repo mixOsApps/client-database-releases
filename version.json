@@ -1,7 +1,7 @@
 {
-    "versionCode":  100,
-    "versionName":  "4.30.0",
-    "apkUrl":  "https://github.com/mixOsApps/client-database-releases/releases/download/v4.30.0/client-database-4.30.0.apk",
-    "releaseNotes":  "Partime orders now send their fares and costs to Masroofi, and Save no longer creates duplicate orders or incomes on a slow network.",
+    "versionCode":  101,
+    "versionName":  "4.31.0",
+    "apkUrl":  "https://github.com/mixOsApps/client-database-releases/releases/download/v4.31.0/client-database-4.31.0.apk",
+    "releaseNotes":  "Updates show their progress on screen (Background or Cancel), never download the same version twice, and only install when you tap Install.",
     "forceUpdate":  false
 }
